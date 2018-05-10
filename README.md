@@ -1,2 +1,2 @@
 # toy-robot
-coding example
+coding example to show case my approach to codiing
